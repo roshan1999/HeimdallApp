@@ -1,28 +1,22 @@
-# Flutter & Firebase Authentication demo
+# Flutter & Firebase Authentication 
 
-Source code based on my Flutter & Firebase Authentication video series:
+Source code based on app developed for the disaster management and prediction of  Natural Disasters:
 
-- [Part 1](https://youtu.be/u_Lyx8KJWpg)
-- [Part 2](https://youtu.be/BNOUtPSN-kA)
-- [Part 3](https://youtu.be/aaKef60iuy8)
-- [Part 4](https://youtu.be/w_EyVk4qLL4)
-- [Part 5](https://youtu.be/Pl1rKBnmDkU)
-- [Part 6](https://youtu.be/GDrlQ0L4ogg)
-- [Scoped Access with InheritedWidget](https://youtu.be/X8JDPt83c6M)
-- [Add Unit Tests to Your App](https://youtu.be/h0IbAIHAwnk)
-
-
-## Preview
-
-![](screenshots/flutter-login-demo.png)
-
-## Firebase configuration
-
-You need to register the project with your own Firebase account.
-
-- Use `com.flutter.logindemo` as your bundle / application ID when generating the Firebase project.
-
-- Download the `ios/Runner/GoogleService-Info.plist` and `android/app/google-services.json` files as needed.
-
-
-### [License: MIT](LICENSE.md)
+#Features:
+-
+-> A Clean UI with minimalistic design
+-> Built in flutter for multi-platform support
+-> Secure Firebase Integration for seamless authentication.
+-> Multiple RadioButtons with multiple features some of which are:
+   -> FrontPage SOS design with immediate redirection to calls.
+   -> Further error indication of Password and Login with immediate updation of new accounts.
+   -> Button that redirects to a Map that previews our predicted/observed Earthquakes in real time.
+   -> Button that redirects to a prediction based probability calculator that predicts the possibility 
+      of earthquake depending on the stress acting on a virtual 3D plot of the region.
+    
+#Features coming soon:
+-
+-> Depending on the place of distress call, establish a peer to peer connection that alerts people around you, who are integrated           to the same app.
+-> Further prediction of a range of natural disasters such as storm, hurricanes, cyclones, etc.
+-> Added biometric authentication for faster access to maps.
+-> and many more......
