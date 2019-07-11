@@ -2,7 +2,7 @@
 
 Source code based on app developed for the disaster management and prediction of  Natural Disasters:
 
-#Features:
+# Features:
 -
 -> A Clean UI with minimalistic design
 -> Built in flutter for multi-platform support
@@ -14,7 +14,7 @@ Source code based on app developed for the disaster management and prediction of
    -> Button that redirects to a prediction based probability calculator that predicts the possibility 
       of earthquake depending on the stress acting on a virtual 3D plot of the region.
     
-#Features coming soon:
+# Features coming soon:
 -
 -> Depending on the place of distress call, establish a peer to peer connection that alerts people around you, who are integrated           to the same app.
 -> Further prediction of a range of natural disasters such as storm, hurricanes, cyclones, etc.
