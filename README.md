@@ -14,7 +14,6 @@ Source code based on app developed for the disaster management and prediction of
       of earthquake depending on the stress acting on a virtual 3D plot of the region.
     
 # Features coming soon:
-- Depending on the place of distress call, establish a peer to peer connection that alerts people around you, who are integrated           to the same app.
 - Further prediction of a range of natural disasters such as storm, hurricanes, cyclones, etc.
 - Added biometric authentication for faster access to maps.
 - and many more......
