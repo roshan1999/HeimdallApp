@@ -1,0 +1,5 @@
+Runpreedictionformatlab.py =---import h5py error 
+The above file , if able to run , can provide us with forward prediction of the aftershock probabilities for the idealized strike-slip earthquake case
+from the above .h5 files generated from a matlab script which i have written. 
+
+

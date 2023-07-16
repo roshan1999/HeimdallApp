@@ -1,0 +1,23 @@
+/* set map, body, and html to 100% of the screen size */
+#map-id,
+body,
+html {
+  height: 100%;
+  padding: 0;
+  margin: 0;
+}
+
+.legend {
+  line-height: 18px;
+  color: "black";
+  background-color: white;
+}
+
+.legend i {
+  width: 30px;
+  height: 10px;
+  float: left;
+  margin-right: 5px;
+  margin-left: 5px;
+  opacity: 0.8;
+}
