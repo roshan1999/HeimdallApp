@@ -4,6 +4,9 @@ by Hexall Tech
 
 PROJECT Heimdall :A Natural disaster prediction and warning system by Hexall Tech.
 
+# Achievement
+⭐ - 4th position in Microsoft CodeFunDo in collaboration with Manipal Institute of Technology.
+
 # Skip all this with the video:
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/R7rs5G2K4HY/0.jpg)]([https://www.youtube.com/watch?v=R7rs5G2K4HY])
 
