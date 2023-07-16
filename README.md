@@ -21,7 +21,8 @@ Technologies used: Flutter, Scripts coded in Python, Matlab , Deep Learning, Ten
 Work Flow:
 
 Our Deeplearning model gets data input from realtime sources at specific intervals. In case an Aftershock is predicted, an SMS broadcast is sent to concerned authorities and locals. The Application is a Disaster Helpline / Relief application which can be used by people to contact authorities and help authorities to conduct necessary actions. The App has multiple features such as SOS and Missing person, which alert the authorities to initiate a relief or search operation. Users can also send an SMS to our phone number if they do not have internet access to make use of the same features.
-ABSTRACT:
+
+# ABSTRACT:
 
 Predicting and managing earthquakes is indeed a difficult task , since the seismic readings play a vital role in the same.We would be creating a model to accurately classify these disasters based on real time data . The main idea,isn ot to go for the Earthquake prediction before time using Time series,RNN's or LSTMS But to look at the other aspect of the aftereffects of an earthquake and the aftershocks it brings with it . If we are able to predict the after shocks and predict the location , we would be able to warn all people in a particular radius of interest.
 
