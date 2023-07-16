@@ -5,7 +5,7 @@ by Hexall Tech
 PROJECT Heimdall :A Natural disaster prediction and warning system by Hexall Tech.
 
 # Skip all this with the video:
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)]([https://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID_HERE](https://www.youtube.com/watch?v=R7rs5G2K4HY))
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/R7rs5G2K4HY/0.jpg)]([https://www.youtube.com/watch?v=R7rs5G2K4HY])
 
 # Short Note:
 
